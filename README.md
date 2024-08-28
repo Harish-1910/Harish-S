@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Harish
 - 👀 I’m interested in  Data Science
-- 🌱 I’m currently learning java 
+- 🌱 I’m currently learning Python
   
 - 📫  reach me at rks.harish2003.gmail.com
   
