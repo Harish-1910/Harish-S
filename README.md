@@ -2,7 +2,7 @@
 - 👀 I’m interested in  Data Science
 - 🌱 I’m currently learning Python
   
-- 📫  reach me at rks.harish2003.gmail.com
+- 📫  reach me at rks.harish2003@gmail.com
   
    
 
