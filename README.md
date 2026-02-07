@@ -1,8 +1,8 @@
 - 👋 Hi, I’m Harish
-- 👀 I’m interested in  Data Science
-- 🌱 I’m currently learning Python
+- 👀 I’m interested in  Python Dev,AI integration 
+
   
-- 📫  reach me at rks.harish2003@gmail.com
+- 📫  reach me at [rks.harish2003@gmail.com]  , (https://www.linkedin.com/in/harish-s2003/)
   
    
 
